@@ -8,11 +8,6 @@ I'm a full-stack developer passionate about building useful web applications and
 
 My current focus is on **full-stack development, AI-powered applications, and building products that make a difference.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janabi54&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/janabi54?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -67,16 +62,9 @@ SkillMtaani is a platform designed to connect clients with nearby skilled worker
 
 <p >
   <img align = "left" height="165" src="https://github-readme-stats.vercel.app/api?username=janabi54&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img align = "right" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janabi54&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 
-
-<p align="left" padding = "0" marginTop = "350px">
-  <img src="https://streak-stats.demolab.com?user=janabi54&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -89,15 +77,9 @@ I'm always happy to connect with developers, recruiters, founders, and people bu
   <a href="https://dev.to/janabi54">
     <img src="https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
   </a>
-  <a href="https://twitter.com/sharasa_ash">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:barasasheban6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Building with purpose. Learning continuously. Turning ideas into reality.</i>
